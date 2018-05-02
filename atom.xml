@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lethon.cn/"/>
-  <updated>2018-04-30T08:35:00.491Z</updated>
+  <updated>2018-05-02T15:46:26.912Z</updated>
   <id>http://lethon.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MIT计算机科学及编程导论（一）</title>
+    <link href="http://lethon.cn/post/ed9f01fa.html"/>
+    <id>http://lethon.cn/post/ed9f01fa.html</id>
+    <published>2018-05-02T15:12:20.000Z</published>
+    <updated>2018-05-02T15:46:26.912Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>tags: python</p><h2 id="Type-discipline："><a href="#Type-discipline：" class="headerlink" title="Type discipline："></a>Type discipline：</h2><ul><li><p><strong>habit of A:</strong> checking out operators or procedures to see what they do under different circumstances, either check them out or read the specifications of it.</p></li><li><p><strong>habit of B:</strong> when you write your own code, you want to be disciplined about what types of arguments or operands you apply to operators.</p></li></ul><h2 id="assignment-statement"><a href="#assignment-statement" class="headerlink" title="assignment statement:"></a>assignment statement:</h2><ul><li><code>x = 3*5</code> and <code>y = 15</code> binding same value. Let <code>z = x</code> give z a pointer to the same place. To the value, not to x.</li></ul><h2 id="code-good-style"><a href="#code-good-style" class="headerlink" title="code good style:"></a>code good style:</h2><ul><li>Don’t change types arbitrarily. </li><li>The choice of variable names is a great way of commenting your code, use variable names that make sense.</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

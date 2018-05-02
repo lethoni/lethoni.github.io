@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[MIT计算机科学及编程导论（一）]]></title>
+    <url>%2Fpost%2Fed9f01fa.html</url>
+    <content type="text"><![CDATA[tags: python Type discipline： habit of A: checking out operators or procedures to see what they do under different circumstances, either check them out or read the specifications of it. habit of B: when you write your own code, you want to be disciplined about what types of arguments or operands you apply to operators. assignment statement: x = 3*5 and y = 15 binding same value. Let z = x give z a pointer to the same place. To the value, not to x. code good style: Don’t change types arbitrarily. The choice of variable names is a great way of commenting your code, use variable names that make sense.]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2Fpost%2F4a17b156.html</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
