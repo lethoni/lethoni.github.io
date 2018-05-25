@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lethon.cn/"/>
-  <updated>2018-05-02T15:46:26.912Z</updated>
+  <updated>2018-05-25T15:12:00.383Z</updated>
   <id>http://lethon.cn/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>MIT计算机科学及编程导论（一）</title>
-    <link href="http://lethon.cn/post/ed9f01fa.html"/>
-    <id>http://lethon.cn/post/ed9f01fa.html</id>
-    <published>2018-05-02T15:12:20.000Z</published>
-    <updated>2018-05-02T15:46:26.912Z</updated>
+    <title>『写给未来女朋友的一封信』</title>
+    <link href="http://lethon.cn/post/4e45b4e3.html"/>
+    <id>http://lethon.cn/post/4e45b4e3.html</id>
+    <published>2018-05-25T15:11:46.000Z</published>
+    <updated>2018-05-25T15:12:00.383Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>tags: python</p><h2 id="Type-discipline："><a href="#Type-discipline：" class="headerlink" title="Type discipline："></a>Type discipline：</h2><ul><li><p><strong>habit of A:</strong> checking out operators or procedures to see what they do under different circumstances, either check them out or read the specifications of it.</p></li><li><p><strong>habit of B:</strong> when you write your own code, you want to be disciplined about what types of arguments or operands you apply to operators.</p></li></ul><h2 id="assignment-statement"><a href="#assignment-statement" class="headerlink" title="assignment statement:"></a>assignment statement:</h2><ul><li><code>x = 3*5</code> and <code>y = 15</code> binding same value. Let <code>z = x</code> give z a pointer to the same place. To the value, not to x.</li></ul><h2 id="code-good-style"><a href="#code-good-style" class="headerlink" title="code good style:"></a>code good style:</h2><ul><li>Don’t change types arbitrarily. </li><li>The choice of variable names is a great way of commenting your code, use variable names that make sense.</li></ul>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>寻寻觅觅千百度，愿得佳人度余生。嘿，我喜欢你呀，余生请多指教。</p><p>遇见我之前，过得还好吗？遇见我之后，生活有改变吗？我有很多话想要和你说呢。</p><p>你喜欢狗狗吗；萨摩、博美、二哈、不然就金毛呀；你喜欢民谣还是流行，宋东野，赵雷，还是张杰和杰伦；你喜欢看书吗，言情还是武侠；你喜欢动漫吗，路飞还是柯南；你喜欢运动吗，跑步还是瑜伽；你喜欢下厨吗，老火汤还是红酒鸡翅；你喜欢旅游吗，想去西藏还是爱情海；你喜欢摄影吗，风景还是人像；你喜欢淡妆还是素颜，喜欢盛夏还是深秋，喜果汁还是奶茶，你喜欢我吗？</p><p>虽然现在还没和你在一起，但是我知道我们都在努力遇见彼此的路上，如果前方艰难险阻，请你在遇见我之前一定要替我照顾好你自己。</p><p>我长得一般，但是心思细腻，会不时给你制造小惊喜哦。我很顾家，有时会有点宅；我会理财，可是不太会买东西；我很有责任心，答应的事情一定会做到的啦；我遇见了你，可能会不敢说话，不是我不喜欢你，我也会害羞的啦，你能主动陪我聊聊天嘛；我其实很普通，转身就会被遗忘了。你会喜欢这样的我不？</p><p>如果你不喜欢狗狗，那我们可以养猫猫呀；要是你不喜欢运动，晚上陪我去散散步好不好；要是你不喜欢下厨，能不能帮我打下手，我陪你买菜，想吃什么我给你做啊；要是你不喜欢动漫，我也可以陪你看肥皂剧啊；要是你是路痴，我方向感很好的哦，跟着我不会迷路的啦；要是你喜欢拍照，我就是你的专属摄影师啊；要是你也和我喜欢你一样喜欢我，那只能倾我所有，予你之欢啊。</p><p>只要我们在一起，规划的未来都能慢慢实现的啊。</p><p>你平时工作忙不忙？你会不会有时候很晚回家？请一定告诉我你的安全，不然会担心的，不管多晚我也会去接你回家啊。我不抽烟不瘾酒，不会很晚才回家的啦。你喜欢吃什么，我都可以学着给你做啊，偶尔失误了，别骂我喔。只要你需要的我们都可以去逛街啊，只要你撒个娇开个口，诺诺诺。</p><p>其实，没有遇见你，我会不会一辈子单身？你肯定会找到我的对不对。</p><p>我相信我们都有很多经历，你会告诉我隔壁阿麻告诉你的那个故事，回来路上遇见的那朵美丽的小花，一只可爱的小狗；我也会告诉你曾经去过的地方看过的人。我想，我们都还在这条所谓人生的路上等待着一个交集。如果，你也在路上，请你替我好好照顾你自己。</p>]]></content>
     
     <summary type="html">
     
@@ -38,19 +38,44 @@
   </entry>
   
   <entry>
+    <title>MIT计算机科学及编程导论（一）</title>
+    <link href="http://lethon.cn/post/ed9f01fa.html"/>
+    <id>http://lethon.cn/post/ed9f01fa.html</id>
+    <published>2018-05-02T15:12:20.000Z</published>
+    <updated>2018-05-02T15:54:44.139Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Type-discipline："><a href="#Type-discipline：" class="headerlink" title="Type discipline："></a>Type discipline：</h2><ul><li><p><strong>habit of A:</strong> checking out operators or procedures to see what they do under different circumstances, either check them out or read the specifications of it.</p></li><li><p><strong>habit of B:</strong> when you write your own code, you want to be disciplined about what types of arguments or operands you apply to operators.</p></li></ul><a id="more"></a><h2 id="assignment-statement"><a href="#assignment-statement" class="headerlink" title="assignment statement:"></a>assignment statement:</h2><ul><li><code>x = 3*5</code> and <code>y = 15</code> binding same value. Let <code>z = x</code> give z a pointer to the same place. To the value, not to x.</li></ul><h2 id="code-good-style"><a href="#code-good-style" class="headerlink" title="code good style:"></a>code good style:</h2><ul><li>Don’t change types arbitrarily. </li><li>The choice of variable names is a great way of commenting your code, use variable names that make sense.</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Type-discipline：&quot;&gt;&lt;a href=&quot;#Type-discipline：&quot; class=&quot;headerlink&quot; title=&quot;Type discipline：&quot;&gt;&lt;/a&gt;Type discipline：&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;habit of A:&lt;/strong&gt; checking out operators or procedures to see what they do under different circumstances, either check them out or read the specifications of it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;habit of B:&lt;/strong&gt; when you write your own code, you want to be disciplined about what types of arguments or operands you apply to operators.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="编程" scheme="http://lethon.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://lethon.cn/post/4a17b156.html"/>
     <id>http://lethon.cn/post/4a17b156.html</id>
-    <published>2018-04-30T08:35:00.491Z</published>
-    <updated>2018-04-30T08:35:00.491Z</updated>
+    <published>2018-04-30T08:35:00.000Z</published>
+    <updated>2018-05-02T15:56:40.045Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
       
     
     </summary>

@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[『写给未来女朋友的一封信』]]></title>
+    <url>%2Fpost%2F4e45b4e3.html</url>
+    <content type="text"><![CDATA[寻寻觅觅千百度，愿得佳人度余生。嘿，我喜欢你呀，余生请多指教。 遇见我之前，过得还好吗？遇见我之后，生活有改变吗？我有很多话想要和你说呢。 你喜欢狗狗吗；萨摩、博美、二哈、不然就金毛呀；你喜欢民谣还是流行，宋东野，赵雷，还是张杰和杰伦；你喜欢看书吗，言情还是武侠；你喜欢动漫吗，路飞还是柯南；你喜欢运动吗，跑步还是瑜伽；你喜欢下厨吗，老火汤还是红酒鸡翅；你喜欢旅游吗，想去西藏还是爱情海；你喜欢摄影吗，风景还是人像；你喜欢淡妆还是素颜，喜欢盛夏还是深秋，喜果汁还是奶茶，你喜欢我吗？ 虽然现在还没和你在一起，但是我知道我们都在努力遇见彼此的路上，如果前方艰难险阻，请你在遇见我之前一定要替我照顾好你自己。 我长得一般，但是心思细腻，会不时给你制造小惊喜哦。我很顾家，有时会有点宅；我会理财，可是不太会买东西；我很有责任心，答应的事情一定会做到的啦；我遇见了你，可能会不敢说话，不是我不喜欢你，我也会害羞的啦，你能主动陪我聊聊天嘛；我其实很普通，转身就会被遗忘了。你会喜欢这样的我不？ 如果你不喜欢狗狗，那我们可以养猫猫呀；要是你不喜欢运动，晚上陪我去散散步好不好；要是你不喜欢下厨，能不能帮我打下手，我陪你买菜，想吃什么我给你做啊；要是你不喜欢动漫，我也可以陪你看肥皂剧啊；要是你是路痴，我方向感很好的哦，跟着我不会迷路的啦；要是你喜欢拍照，我就是你的专属摄影师啊；要是你也和我喜欢你一样喜欢我，那只能倾我所有，予你之欢啊。 只要我们在一起，规划的未来都能慢慢实现的啊。 你平时工作忙不忙？你会不会有时候很晚回家？请一定告诉我你的安全，不然会担心的，不管多晚我也会去接你回家啊。我不抽烟不瘾酒，不会很晚才回家的啦。你喜欢吃什么，我都可以学着给你做啊，偶尔失误了，别骂我喔。只要你需要的我们都可以去逛街啊，只要你撒个娇开个口，诺诺诺。 其实，没有遇见你，我会不会一辈子单身？你肯定会找到我的对不对。 我相信我们都有很多经历，你会告诉我隔壁阿麻告诉你的那个故事，回来路上遇见的那朵美丽的小花，一只可爱的小狗；我也会告诉你曾经去过的地方看过的人。我想，我们都还在这条所谓人生的路上等待着一个交集。如果，你也在路上，请你替我好好照顾你自己。]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[MIT计算机科学及编程导论（一）]]></title>
     <url>%2Fpost%2Fed9f01fa.html</url>
-    <content type="text"><![CDATA[tags: python Type discipline： habit of A: checking out operators or procedures to see what they do under different circumstances, either check them out or read the specifications of it. habit of B: when you write your own code, you want to be disciplined about what types of arguments or operands you apply to operators. assignment statement: x = 3*5 and y = 15 binding same value. Let z = x give z a pointer to the same place. To the value, not to x. code good style: Don’t change types arbitrarily. The choice of variable names is a great way of commenting your code, use variable names that make sense.]]></content>
+    <content type="text"><![CDATA[Type discipline： habit of A: checking out operators or procedures to see what they do under different circumstances, either check them out or read the specifications of it. habit of B: when you write your own code, you want to be disciplined about what types of arguments or operands you apply to operators. assignment statement: x = 3*5 and y = 15 binding same value. Let z = x give z a pointer to the same place. To the value, not to x. code good style: Don’t change types arbitrarily. The choice of variable names is a great way of commenting your code, use variable names that make sense.]]></content>
+      <tags>
+        <tag>编程</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
