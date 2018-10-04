@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.lethon.cn/"/>
-  <updated>2018-08-06T15:22:04.553Z</updated>
+  <updated>2018-10-04T08:11:30.483Z</updated>
   <id>https://blog.lethon.cn/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>bootstrap navbar upwards</title>
+    <link href="https://blog.lethon.cn/p/452917e6.html"/>
+    <id>https://blog.lethon.cn/p/452917e6.html</id>
+    <published>2018-10-04T08:11:30.483Z</published>
+    <updated>2018-10-04T08:11:30.483Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>使用响应式bootstrap设置navbar，当navbar设置好后，缩小大小可以观察到内容全部汇集到一个button中，点击button会展开导航内容，如下设置：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">&lt;nav class=&quot;navbar navbar-expand-lg navbar-light bg-light&quot;&gt;</span><br><span class="line">  &lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;Navbar&lt;/a&gt;</span><br><span class="line">  &lt;button class=&quot;navbar-toggler&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbarNavAltMarkup&quot; aria-controls=&quot;navbarNavAltMarkup&quot; aria-expanded=&quot;false&quot; aria-label=&quot;Toggle navigation&quot;&gt;</span><br><span class="line">    &lt;span class=&quot;navbar-toggler-icon&quot;&gt;&lt;/span&gt;</span><br><span class="line">  &lt;/button&gt;</span><br><span class="line">  &lt;div class=&quot;collapse navbar-collapse&quot; id=&quot;navbarNavAltMarkup&quot;&gt;</span><br><span class="line">    &lt;div class=&quot;navbar-nav&quot;&gt;</span><br><span class="line">      &lt;a class=&quot;nav-item nav-link active&quot; href=&quot;#&quot;&gt;Home &lt;span class=&quot;sr-only&quot;&gt;(current)&lt;/span&gt;&lt;/a&gt;</span><br><span class="line">      &lt;a class=&quot;nav-item nav-link&quot; href=&quot;#&quot;&gt;Features&lt;/a&gt;</span><br><span class="line">      &lt;a class=&quot;nav-item nav-link&quot; href=&quot;#&quot;&gt;Pricing&lt;/a&gt;</span><br><span class="line">      &lt;a class=&quot;nav-item nav-link disabled&quot; href=&quot;#&quot;&gt;Disabled&lt;/a&gt;</span><br><span class="line">    &lt;/div&gt;</span><br><span class="line">  &lt;/div&gt;</span><br><span class="line">&lt;/nav&gt;</span><br></pre></td></tr></table></figure><p>当custon css时如果将<strong>.navbar { height：70px; } </strong>，固定了navbar高度后将出现显示错误，导致navbar向上展开，删除即可解决问题。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://blog.lethon.cn/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="bootstrap" scheme="https://blog.lethon.cn/tags/bootstrap/"/>
+    
+  </entry>
   
   <entry>
     <title>写给未来女朋友的一封信</title>
